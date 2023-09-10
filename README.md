@@ -58,9 +58,5 @@ If you would like to get in touch with me, feel free to contact me through email
 
 ## Open to Collaboration
 
-I'm open to collaboration on exciting projects and exploring job opportunities.
-
-## Footer
-
-[![Website](your-website-badge-link)](https://ethansterling.com/)
+I'm open to collaboration on exciting projects and exploring job opportunities [🌎](https://ethansterling.com/)
 
