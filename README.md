@@ -18,19 +18,27 @@ Dean's List | Honors Math Program | Summer Internship Grant Recipient
 
 ## Experience
 
-- [Your Work Experience]
+### Fulminare Holdings
+#### Software Engineering Intern
+- Wrote programs in Swift for data imports from other apps to improve user transitions to poker bankroll tracker
+- Marketed app by creating a Twitter bot to post daily threads and by posting daily videos on Tiktok resulting in a significant increase in app users
+- Conducted market research on fitness apps to help inform and provide feedback for new app development
 
 ## Skills
 
-- [List your skills]
+- Programming languages: Python, C, C++, Java, Swift, JavaScript, SQL, STATA
+- Software and technologies: Visual Studio Code, UNIX, Xcode, CLion, DrRacket, Tweepy, OpenAI, AWS, Git
+
+**Skills I'm learning this year:**
+- Pandas, NumPy, scikit-learn, matplotlib, seaborn, R, ggplot2
 
 ## Projects
 
-- [Brief description of your pinned projects]
+**Check out my pinned projects to see examples of my code!**
 
 ## Other Repositories
 
-Explore more of my projects on my [GitHub Profile](https://github.com/EthanSterling04).
+Explore more of my projects in my [GitHub Repositories](https://github.com/EthanSterling04?tab=repositories).
 
 ## Connect with Me
 
@@ -44,11 +52,9 @@ If you would like to get in touch with me, feel free to contact me through email
 
 ## Fun Facts
 
-- I love running, music, skiing, video games, and weight lifting
-
-## Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EthanSterling04&show_icons=true)](https://github.com/EthanSterling04/github-readme-stats)
+- I love running, music, skiing, video games, and weight lifting!
+- I am a producer for Dillo Day, the nation's largest student-run music festival 🎶
+- I am a certified lifeguard 😎
 
 ## Open to Collaboration
 
@@ -56,4 +62,5 @@ I'm open to collaboration on exciting projects and exploring job opportunities.
 
 ## Footer
 
-[![Website Badge](your-website-badge-link)](https://ethansterling.com/)
+[![Website](your-website-badge-link)](https://ethansterling.com/)
+
