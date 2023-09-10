@@ -1,17 +1,59 @@
-<h1 align="center">Hi, I'm Ethan Sterling</h1>
-<h3 align="center">Computer science and economics student at Northwestern University</h3>
+# Ethan Sterling
 
-- 🌱 I’m currently learning **Computer Systems, Game Design & Development, and Data Science**
+Hi, I'm Ethan, a Computer Science and Economics student at Northwestern University. I enjoy creating innovative solutions to help others and exploring new technologies such as machine learning and AI.
 
-- 📫 How to reach me **iethansterling@gmail.com**
+## Education - Northwestern University
 
-- 📄 Know about my experiences [https://ethansterling.com/wp-content/uploads/2023/09/Resume.pdf](https://ethansterling.com/wp-content/uploads/2023/09/Resume.pdf)
+Dean's List | Honors Math Program | Summer Internship Grant Recipient
 
-- ⚡ Fun fact **I love running, music, skiing, video games, and weight lifting**
+- Bachelor of Arts in Computer Science
+- Bachelor of Arts in Economics
+- Minor in Data Science
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+### Coursework:
+* Data Structures, AI, Linear Algebra, Multivariable Calculus, Econometrics
+* Fall 2023: Data Science & Machine Learning, Computer Systems, Game Design & Development
+* Winter 2024: Programming Languages, Data Visualization
+* Spring 2024: Algorithms, Database Systems
 
-##### Connect with me:
+## Experience
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-sterling-2004/)
+- [Your Work Experience]
+
+## Skills
+
+- [List your skills]
+
+## Projects
+
+- [Brief description of your pinned projects]
+
+## Other Repositories
+
+Explore more of my projects on my [GitHub Profile](https://github.com/EthanSterling04).
+
+## Connect with Me
+
+- <img src="https://github.com/EthanSterling04/EthanSterling04/assets/60374501/e467aaf6-24f1-4c45-9806-62116fa46adb" width="15" height="15"> [LinkedIn](https://www.linkedin.com/in/ethan-sterling-2004/)
+- 📄 [Resume](https://ethansterling.com/wp-content/uploads/2023/09/Resume.pdf)
+
+## Contact
+
+If you would like to get in touch with me, feel free to contact me through email! I will respond as quickly as possible.
+- Email: iethansterling@gmail.com
+
+## Fun Facts
+
+- I love running, music, skiing, video games, and weight lifting
+
+## Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EthanSterling04&show_icons=true)](https://github.com/EthanSterling04/github-readme-stats)
+
+## Open to Collaboration
+
+I'm open to collaboration on exciting projects and exploring job opportunities.
+
+## Footer
+
+[![Website Badge](your-website-badge-link)](https://ethansterling.com/)
