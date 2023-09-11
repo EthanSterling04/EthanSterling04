@@ -49,7 +49,7 @@ Explore more of my smaller projects in my [GitHub Repositories](https://github.c
 ## Connect with Me
 
 - <img src="https://github.com/EthanSterling04/EthanSterling04/assets/60374501/e467aaf6-24f1-4c45-9806-62116fa46adb" width="15" height="15"> [LinkedIn](https://www.linkedin.com/in/ethan-sterling-2004/)
-- 📄 [Resume](https://ethansterling.com/wp-content/uploads/2023/09/Resume.pdf)
+- 📄 [Resume](https://ethansterling.com/wp-content/uploads/2023/09/Ethan-Sterling-Resume.pdf)
 
 ## Contact
 
