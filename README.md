@@ -58,9 +58,10 @@ If you would like to get in touch with me, feel free to contact me through email
 
 ## Fun Facts
 
-- I love running, music, skiing, video games, and weight lifting!
+- I am from the wonderful city of Chicago 🌃
+- My hobbies are running, music, skiing, video games, and weightlifting!
 - I am a producer for Dillo Day, the nation's largest student-run music festival 🎶
-- I am a certified lifeguard 😎
+- I am also a certified lifeguard 😎
 
 ## Open to Collaboration
 
