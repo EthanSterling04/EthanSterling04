@@ -1,4 +1,4 @@
-# Ethan Sterling
+# About Me
 
 Hi, I'm Ethan, a Computer Science and Economics student at Northwestern University. I enjoy creating innovative solutions to help others and exploring new technologies such as machine learning and AI.
 
