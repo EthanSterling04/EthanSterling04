@@ -30,7 +30,7 @@ Dean's List | Honors Math Program | Summer Internship Grant Recipient
 - Software and technologies: Visual Studio Code, UNIX, Xcode, CLion, DrRacket, Tweepy, OpenAI, AWS, Git
 
 **Skills I'm learning this year:**
-- Pandas, NumPy, scikit-learn, matplotlib, seaborn, R, ggplot2
+- Pandas, NumPy, scikit-learn, matplotlib, seaborn, R, ggplot2, TensorFlow
 
 ## Projects
 
