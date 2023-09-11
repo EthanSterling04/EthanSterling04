@@ -35,10 +35,16 @@ Dean's List | Honors Math Program | Summer Internship Grant Recipient
 ## Projects
 
 **Check out my pinned projects to see examples of my code!**
+- [TANKS! (Programming)](https://github.com/EthanSterling04/TANKS)
+- [Reversi (Programming)](https://github.com/EthanSterling04/Reversi)
+- [IRV (Programming)](https://github.com/EthanSterling04/irv-program)
+- [Trip Planner (Data Structures)](https://github.com/EthanSterling04/Trip-Planner)
+- [Pizza Drone (RL)](https://github.com/EthanSterling04/pizza-drone)
+- [Classifier (ML)](https://github.com/EthanSterling04/classifier)
 
 ## Other Repositories
 
-Explore more of my projects in my [GitHub Repositories](https://github.com/EthanSterling04?tab=repositories).
+Explore more of my smaller projects in my [GitHub Repositories](https://github.com/EthanSterling04?tab=repositories).
 
 ## Connect with Me
 
