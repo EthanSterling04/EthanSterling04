@@ -12,7 +12,7 @@ Dean's List | Honors Math Program | Summer Internship Grant Recipient
 
 ### Coursework:
 * Data Structures, AI, Linear Algebra, Multivariable Calculus, Econometrics
-* Fall 2023: Data Science & Machine Learning, Computer Systems, Game Design & Development
+* Current: Data Science & Machine Learning, Computer Systems, Game Design & Development
 * Winter 2024: Programming Languages, Data Visualization
 * Spring 2024: Algorithms, Database Systems
 
@@ -26,11 +26,11 @@ Dean's List | Honors Math Program | Summer Internship Grant Recipient
 
 ## Skills
 
-- Programming languages: Python, C, C++, Java, Swift, JavaScript, SQL, STATA
-- Software and technologies: Visual Studio Code, UNIX, Xcode, CLion, DrRacket, Tweepy, OpenAI, AWS, Git
+- Programming languages: Python, C, C++, Java, Swift, JavaScript, SQL, STATA, C#
+- Software and technologies: Visual Studio, UNIX, Xcode, Unity, CLion, DrRacket, Tweepy, OpenAI, AWS, Git, Pandas, NumPy, matplotlib
 
 **Skills I'm learning this year:**
-- Pandas, NumPy, scikit-learn, matplotlib, seaborn, R, ggplot2, TensorFlow
+- scikit-learn, seaborn, R, ggplot2, TensorFlow
 
 ## Projects
 
