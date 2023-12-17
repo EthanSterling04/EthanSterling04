@@ -6,7 +6,7 @@ Hi, I'm Ethan, a Computer Science and Economics student at Northwestern Universi
 
 Dean's List | Honors Math Program | Summer Internship Grant Recipient
 
-- Bachelor of Arts in Computer Science
+- Combined Bachelor of Arts and Master of Science in Computer Science
 - Bachelor of Arts in Economics
 - Minor in Data Science
 
@@ -21,16 +21,16 @@ Dean's List | Honors Math Program | Summer Internship Grant Recipient
 ### Fulminare Holdings
 #### Software Engineering Intern
 - Wrote programs in Swift for data imports from other apps to improve user transitions to poker bankroll tracker
-- Marketed app by creating a Twitter bot to post daily threads and by posting daily videos on Tiktok resulting in a significant increase in app users
+- Marketed app by creating a Twitter bot to post daily threads and by posting daily videos on Tiktok resulting in an increase of over 8000 app users
 - Conducted market research on fitness apps to help inform and provide feedback for new app development
 
 ## Skills
 
-- Programming languages: Python, C, C++, Java, Swift, JavaScript, SQL, STATA, C#
-- Software and technologies: Visual Studio, UNIX, Xcode, Unity, CLion, DrRacket, Tweepy, OpenAI, AWS, Git, Pandas, NumPy, matplotlib
+- Programming languages: Python, C, C++, Java, Swift, JavaScript, SQL, STATA, C#, x86-64 Assembly
+- Software and technologies: Visual Studio, UNIX, Xcode, Unity, CLion, DrRacket, Tweepy, OpenAI, AWS, Git, Pandas, NumPy, Matplotlib, Seaborn
 
 **Skills I'm learning this year:**
-- scikit-learn, seaborn, R, ggplot2, TensorFlow
+- scikit-learn, R, ggplot2, TensorFlow
 
 ## Projects
 
