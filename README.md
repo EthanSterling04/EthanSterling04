@@ -35,15 +35,15 @@ Dean's List | Honors Math Program | Summer Internship Grant Recipient
 
 **Check out my pinned projects to see examples of my code!**
 - [TANKS! (Programming)](https://github.com/EthanSterling04/TANKS)
-- [Reversi (Programming)](https://github.com/EthanSterling04/Reversi)
-- [IRV (Programming)](https://github.com/EthanSterling04/irv-program)
+- [Heart Attack Indicators (EDA)](https://github.com/EthanSterling04/Heart-Attack-Indicators)
+- [SETI Lab (Concurrency)](https://github.com/EthanSterling04/SETI-lab)
 - [Trip Planner (Data Structures)](https://github.com/EthanSterling04/Trip-Planner)
 - [Pizza Drone (RL)](https://github.com/EthanSterling04/pizza-drone)
 - [Classifier (ML)](https://github.com/EthanSterling04/classifier)
 
 ## Other Repositories
 
-Explore more of my smaller projects in my [GitHub Repositories](https://github.com/EthanSterling04?tab=repositories).
+Explore more of my projects in my [GitHub Repositories](https://github.com/EthanSterling04?tab=repositories).
 
 ## Connect with Me
 
@@ -52,7 +52,7 @@ Explore more of my smaller projects in my [GitHub Repositories](https://github.c
 
 ## Contact
 
-If you would like to get in touch with me, feel free to contact me through email! I will respond as quickly as possible.
+If you would like to get in touch with me, feel free to contact me through email! I will get back to you as soon as possible.
 - Email: iethansterling@gmail.com
 
 ## Fun Facts
