@@ -11,10 +11,9 @@ Dean's List | Honors Math Program | Summer Internship Grant Recipient
 - Minor in Data Science
 
 ### Coursework:
-* Data Structures, AI, Linear Algebra, Multivariable Calculus, Econometrics
-* Current: Data Science & Machine Learning, Computer Systems, Game Design & Development
-* Winter 2024: Programming Languages, Data Visualization
-* Spring 2024: Algorithms, Database Systems
+* Data Structures, AI, Linear Algebra, Multivariable Calculus, Econometrics, Computer Systems, Game Design & Development
+* Current: Data Science & Machine Learning, Programming Languages, Discrete Math
+* Spring 2024: Algorithms, Database Systems, Data Visualization
 
 ## Experience
 
