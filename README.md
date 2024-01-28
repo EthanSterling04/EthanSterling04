@@ -20,6 +20,8 @@ Dean's List | Honors Math Program | Summer Internship Grant Recipient
 ### Federal Reserve Bank of Chicago
 #### Incoming Software Engineering Intern
 
+&nbsp;  
+
 ### Fulminare Holdings
 #### Software Engineering Intern
 - Wrote programs in Swift for data imports from other apps to improve user transitions to poker bankroll tracker
