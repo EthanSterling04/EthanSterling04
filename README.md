@@ -6,14 +6,14 @@ Hi, I'm Ethan, a Computer Science and Economics student at Northwestern Universi
 
 Dean's List | Honors Math Program | Summer Internship Grant Recipient
 
-- Combined Bachelor of Arts and Master of Science in Computer Science
+- Master of Science in Computer Science
 - Bachelor of Arts in Economics
 - Minor in Data Science
 
 ### Coursework:
 * Data Structures, AI, Linear Algebra, Multivariable Calculus, Econometrics, Computer Systems, Game Design & Development
 * Current: Data Science & Machine Learning, Programming Languages, Discrete Math
-* Spring 2024: Algorithms, Database Systems, Data Visualization
+* Spring 2024: Multi-Agent Models, Data Visualization
 
 ## Experience
 
@@ -25,16 +25,16 @@ Dean's List | Honors Math Program | Summer Internship Grant Recipient
 ### Fulminare Holdings
 #### Software Engineering Intern
 - Wrote programs in Swift for data imports from other apps to improve user transitions to poker bankroll tracker
-- Marketed app by creating a Twitter bot to post daily threads and by posting daily videos on Tiktok resulting in an increase of over 8000 app users
+- Marketed app by creating and maintaining a Twitter bot to post daily threads resulting in an increase of over 8000 app users
 - Conducted market research on fitness apps to help inform and provide feedback for new app development
 
 ## Skills
 
-- Programming languages: Python, C, C++, Java, Swift, JavaScript, SQL, STATA, C#, x86-64 Assembly
-- Software and technologies: Visual Studio, UNIX, Xcode, Unity, CLion, DrRacket, Tweepy, OpenAI, AWS, Git, Pandas, NumPy, Matplotlib, Seaborn
+- Programming languages: Python, C, C++, Java, Swift, JavaScript, SQL, STATA, C#, x86-64 Assembly, LISP
+- Software and technologies: Visual Studio, UNIX, Xcode, Unity, CLion, DrRacket, Tweepy, OpenAI, AWS, Git, Pandas, NumPy, Matplotlib, Seaborn, Jupyter, scikit-learn, ggplot2
 
 **Skills I'm learning this year:**
-- scikit-learn, R, ggplot2, TensorFlow
+- R, TensorFlow, React
 
 ## Projects
 
