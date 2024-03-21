@@ -13,7 +13,7 @@ Dean's List | Honors Math Program | Summer Internship Grant Recipient
 ### Coursework:
 * Data Structures, AI, Linear Algebra, Multivariable Calculus, Econometrics, Computer Systems, Game Design & Development
 * Current: Data Science & Machine Learning, Programming Languages, Discrete Math
-* Spring 2024: Multi-Agent Models, Data Visualization
+* Spring 2024: Multi-Agent Models, Data Visualization, Agile Software Development
 
 ## Experience
 
@@ -36,7 +36,7 @@ Dean's List | Honors Math Program | Summer Internship Grant Recipient
 **Skills I'm learning this year:**
 - R, TensorFlow, React
 
-## Projects
+## Projects (Email iethansterling@gmail.com to request access)
 
 **Check out my pinned projects to see examples of my code!**
 - [TANKS! (Programming)](https://github.com/EthanSterling04/TANKS)
