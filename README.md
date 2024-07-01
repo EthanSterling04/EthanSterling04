@@ -4,21 +4,32 @@ Hi, I'm Ethan, a Computer Science and Economics student at Northwestern Universi
 
 ## Education - Northwestern University
 
-Dean's List | Honors Math Program | Summer Internship Grant Recipient
+Dean's List | Innovation Fellowship | Honors Math Program | Summer Internship Grant Recipient
 
 - Master of Science in Computer Science
 - Bachelor of Arts in Economics
 - Minor in Data Science
 
 ### Coursework:
-* Data Structures, AI, Linear Algebra, Multivariable Calculus, Econometrics, Computer Systems, Game Design & Development
-* Current: Data Science & Machine Learning, Programming Languages, Discrete Math
-* Spring 2024: Multi-Agent Models, Data Visualization, Agile Software Development
+* Data Structures, AI, Linear Algebra, Multivariable Calculus, Econometrics, Computer Systems, Game Design & Development, Data Science & Machine Learning, Programming Languages, Discrete Math, Agent-Based Models, Data Visualization, Agile Software Development
+* Current: Automata theory and compilers, Operating Systems
+* Winter 2025: Networking, Computer System Security
 
 ## Experience
 
 ### Federal Reserve Bank of Chicago
-#### Incoming Software Engineering Intern
+#### Software Engineering Intern
+- Design and develop critical RESTful APIs using Spring Boot to replace database links, aiding cloud migration effort
+- Leverage Docker and Terraform, Mockito unit tests, and build GitLab CI/CD pipelines for deployment and scalability
+- Support FedLine Solutions, securing payment services for 100,000 users, moving 5 trillion dollars daily
+
+&nbsp;  
+
+### Prescience Lab
+#### Research Assistant
+- Scale functional programming language MaPLe to a distributed memory environment using MPI and C
+- Develop efficient parallel garbage collection for MPL, scaling to hundreds of cores and 1TB+ heap sizes
+- Optimize whole-program compilation with MLton for performance competitive with C/C++
 
 &nbsp;  
 
@@ -30,11 +41,11 @@ Dean's List | Honors Math Program | Summer Internship Grant Recipient
 
 ## Skills
 
-- Programming languages: Python, C, C++, Java, Swift, JavaScript, SQL, STATA, C#, x86-64 Assembly, LISP
-- Software and technologies: Visual Studio, UNIX, Xcode, Unity, CLion, DrRacket, Tweepy, OpenAI, AWS, Git, Pandas, NumPy, Matplotlib, Seaborn, Jupyter, scikit-learn, ggplot2
+- Programming languages: Python, C, C++, Java, Swift, JavaScript, SQL, STATA, C#, x86-64 Assembly, LISP, R, LaTex
+- Software and technologies: Visual Studio, UNIX, Xcode, Unity, CLion, DrRacket, Tweepy, OpenAI, AWS, Git, Pandas, NumPy, Matplotlib, Seaborn, Jupyter, scikit-learn, ggplot2, React, Firebase, NPM, NetLogo, Spring Boot, Hibernate, Docker, Terraform, H2, Mockito, WildFly, Jenkins
 
 **Skills I'm learning this year:**
-- R, TensorFlow, React
+- TensorFlow, Express.js
 
 ## Projects (Email iethansterling@gmail.com to request access)
 
