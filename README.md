@@ -23,15 +23,11 @@ Dean's List | Innovation Fellowship | Honors Math Program | Summer Internship Gr
 - Leverage Docker and Terraform, Mockito unit tests, and build GitLab CI/CD pipelines for deployment and scalability
 - Support FedLine Solutions, securing payment services for 100,000 users, moving 5 trillion dollars daily
 
-&nbsp;  
-
 ### Prescience Lab
 #### Research Assistant
 - Scale functional programming language MaPLe to a distributed memory environment using MPI and C
 - Develop efficient parallel garbage collection for MPL, scaling to hundreds of cores and 1TB+ heap sizes
 - Optimize whole-program compilation with MLton for performance competitive with C/C++
-
-&nbsp;  
 
 ### Fulminare Holdings
 #### Software Engineering Intern
