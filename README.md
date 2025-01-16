@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm Ethan, a Computer Science and Economics student at Northwestern University. I enjoy creating innovative solutions to help others and exploring new technologies such as machine learning and AI.
+Hi, I'm Ethan, a Computer Science and Economics student at Northwestern University. I enjoy designing efficient solutions to complex problems and exploring technologies related to low-level programming, such as systems architecture and performance optimization.
 
 ## Education - Northwestern University
 
@@ -11,10 +11,9 @@ Dean's List | Innovation Fellowship | Honors Math Program | Summer Internship Gr
 - Minor in Data Science
 
 ### Coursework:
-* Data Structures, AI, Linear Algebra, Multivariable Calculus, Econometrics, Computer Systems, Game Design & Development, Data Science & Machine Learning, Programming Languages, Discrete Math, Agent-Based Models, Data Visualization, Agile Software Development
-* Current: Automata theory and compilers, Operating Systems
-* Winter 2025: Networking, Computer System Security
-
+* Data Structures, AI, Linear Algebra, Multivariable Calculus, Econometrics, Computer Systems, Game Design & Development, Data Science & Machine Learning, Programming Languages, Discrete Math, Agent-Based Models, Data Visualization, Agile Software Development, Automata theory and compilers
+* Current: Operating Systems, Networking, Computer System Security
+* Spring 2025: Digital Forensics and Incident Response, Deep Learning
 ## Experience
 
 ### Federal Reserve Bank of Chicago
@@ -41,7 +40,7 @@ Dean's List | Innovation Fellowship | Honors Math Program | Summer Internship Gr
 - Software and technologies: Visual Studio, UNIX, Xcode, Unity, CLion, DrRacket, Tweepy, OpenAI, AWS, Git, Pandas, NumPy, Matplotlib, Seaborn, Jupyter, scikit-learn, ggplot2, React, Firebase, NPM, NetLogo, Spring Boot, Hibernate, Docker, Terraform, H2, Mockito, WildFly, Jenkins
 
 **Skills I'm learning this year:**
-- TensorFlow, Express.js
+- Vim, GDB, Valgrind
 
 ## Projects (Email iethansterling@gmail.com to request access)
 
