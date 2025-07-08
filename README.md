@@ -18,15 +18,24 @@ Dean's List | Innovation Fellowship | Honors Math Program | Summer Internship Gr
 
 ### Federal Reserve Bank of Chicago
 #### Software Engineering Intern
-- Design and develop critical RESTful APIs using Spring Boot to replace database links, aiding cloud migration effort
-- Leverage Docker and Terraform, Mockito unit tests, and build GitLab CI/CD pipelines for deployment and scalability
-- Support FedLine Solutions, securing payment services for 100,000 users, moving 5 trillion dollars daily
+- Implement automated multi-region disaster recovery using AWS services (EC2, RDS, Route 53) and Terraform for a test application, enabling scheduled and intelligent failover based on resource availability
+- Engineer an automatic update process for OSS in an Angular/Spring application, including automated site testing
+- Create a proof-of-concept for unit testing PostgreSQL procedures, functions, and triggers using a test application
+- Architected critical RESTful APIs using Spring Boot to replace database links, aiding cloud migration effort
+- Leveraged Docker, Terraform, Mockito unit tests, and built GitLab CI/CD pipelines for deployment and scalability
+- Maintained FedLine Solutions, securing payment services for 100,000 users, moving 5 trillion dollars daily
 
-### Prescience Lab
+### The Buoyancy Project (FPVM)
+#### Research Contributor
+- Design and implement a Just-in-Time (JIT) compiler to translate custom Floating-point Intermediate Representation (FIR) into native x86-64 assembly, achieving near-native execution speeds
+- Enhance VM instruction set with x86 comparison, precisely manipulating EFLAGS for complex conditional logic
+- Define architectural roadmap for high-performance computing by prototyping 256-bit AVX vector instruction support, detailing kernel state, register file, and compilation pipeline changes
+
+### Prescience Lab (DMPL)
 #### Research Assistant
-- Scale functional programming language MaPLe to a distributed memory environment using MPI and C
-- Develop efficient parallel garbage collection for MPL, scaling to hundreds of cores and 1TB+ heap sizes
-- Optimize whole-program compilation with MLton for performance competitive with C/C++
+- Scaled functional programming language MaPLe to a distributed memory environment using MPI and C
+- Developed efficient parallel garbage collection for MPL, scaling to hundreds of cores and 1TB+ heap sizes
+- Optimized whole-program compilation with MLton for performance competitive with C/C++
 
 ### Fulminare Holdings
 #### Software Engineering Intern
@@ -36,11 +45,11 @@ Dean's List | Innovation Fellowship | Honors Math Program | Summer Internship Gr
 
 ## Skills
 
-- Programming languages: Python, C, C++, Java, Swift, JavaScript, SQL, STATA, C#, x86-64 Assembly, LISP, R, LaTex
-- Software and technologies: Visual Studio, UNIX, Xcode, Unity, CLion, DrRacket, Tweepy, OpenAI, AWS, Git, Pandas, NumPy, Matplotlib, Seaborn, Jupyter, scikit-learn, ggplot2, React, Firebase, NPM, NetLogo, Spring Boot, Hibernate, Docker, Terraform, H2, Mockito, WildFly, Jenkins
+- Programming languages: Python, C, C++, Java, JavaScript, SQL, STATA, Swift, C#, R, Assembly, LISP, LaTex
+- Software and technologies: Git, Unix shell, GDB, Valgrind, Docker, Pandas, NumPy, Matplotlib, AWS, PostgreSQL, scikit-learn, TensorFlow, Jupyter, Spring Boot, Jenkins, Terraform, Mockito, GitLab, Vim, React, Angular, Hibernate, H2
 
 **Skills I'm learning this year:**
-- Vim, GDB, Valgrind
+- tmux
 
 ## Projects (Email iethansterling@gmail.com to request access)
 
@@ -69,8 +78,8 @@ If you would like to get in touch with me, feel free to contact me through email
 ## Fun Facts
 
 - I am from the wonderful city of Chicago 🌃
-- My hobbies are running, music, skiing, video games, and weightlifting!
-- I am a producer for Dillo Day, the nation's largest student-run music festival 🎶
+- My hobbies are running, music, skiing, video games, reading, 16-inch softball, and weightlifting!
+- I am the co-chair for Dillo Day, the nation's largest student-run music festival 🎶
 - I am also a certified lifeguard 😎
 
 ## Open to Collaboration
