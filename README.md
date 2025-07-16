@@ -4,7 +4,7 @@ Hi, I'm Ethan, a Computer Science and Economics student at Northwestern Universi
 
 ## Education - Northwestern University
 
-Dean's List | Innovation Fellowship | Honors Math Program | Summer Internship Grant Recipient
+Seeking Honors in Economics | Dean's List | Innovation Fellowship | Accelerated Math Program
 
 - Master of Science in Computer Science
 - Bachelor of Arts in Economics
@@ -53,13 +53,14 @@ Dean's List | Innovation Fellowship | Honors Math Program | Summer Internship Gr
 
 ## Projects (Email iethansterling@gmail.com to request access)
 
-**Check out my pinned projects to see examples of my code!**
+**Check out some of my projects to see examples of my code!**
+- [Domain Scanner (Networking)](https://github.com/EthanSterling04/domain-scanner)
 - [TANKS! (Programming)](https://github.com/EthanSterling04/TANKS)
+- [Sketch Classification (Machine Learning)](https://github.com/EthanSterling04/sketch-classification)
+- [Inflation-ABM (Economic Modeling)](https://github.com/EthanSterling04/Inflation-ABM)
+- [Group Votes (Full Stack)](https://github.com/394-s24/group-votes)
 - [Heart Attack Indicators (EDA)](https://github.com/EthanSterling04/Heart-Attack-Indicators)
-- [SETI Lab (Concurrency)](https://github.com/EthanSterling04/SETI-lab)
-- [Trip Planner (Data Structures)](https://github.com/EthanSterling04/Trip-Planner)
-- [Pizza Drone (RL)](https://github.com/EthanSterling04/pizza-drone)
-- [Classifier (ML)](https://github.com/EthanSterling04/classifier)
+- [FPVM (Research)](https://github.com/PrescienceLab/fpvm)
 
 ## Other Repositories
 
