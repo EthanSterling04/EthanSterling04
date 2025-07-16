@@ -1,0 +1,12 @@
+languageCode = 'en-us'
+title = 'Ethan Sterling'
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+repoURL = 'https://github.com/EthanSterling04/EthanSterling04/'
+description = 'A passion to help others and make a positive change in the world drives a rigorous work-ethic to combine the fields of Computer Science, Economics, and Data Science.'
+colorDark = '#121212'
+colorLight = '#f7f7f7'
+colorDarkAccent = '#FFB74D'
+colorLightAccent = '#E65100'
+images = ['android-chrome-512x512.png']
