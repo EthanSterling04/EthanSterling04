@@ -51,7 +51,7 @@ Seeking Honors in Economics | Dean's List | Innovation Fellowship | Accelerated 
 **Skills I'm learning this year:**
 - tmux
 
-## Projects (Email iethansterling@gmail.com to request access)
+## Projects
 
 **Check out some of my projects to see examples of my code!**
 - [Domain Scanner (Networking)](https://github.com/EthanSterling04/domain-scanner)
