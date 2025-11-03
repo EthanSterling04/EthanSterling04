@@ -8,4 +8,4 @@ weight: 40
 - **Software and technologies:** Git, Unix shell, GDB, Valgrind, Docker, Pandas, NumPy, Matplotlib, AWS, PostgreSQL, scikit-learn, TensorFlow, Jupyter, Spring Boot, Jenkins, Terraform, Mockito, GitLab, Vim, React, Angular, Hibernate, H2
 
 **Skills I'm learning this year:**
-- tmux
+- tmux, LLVM
