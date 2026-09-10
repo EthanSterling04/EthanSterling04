@@ -1,18 +1,19 @@
 # About Me
 
-Hi, I'm Ethan, a Computer Science and Economics student at Northwestern University. I enjoy designing efficient solutions to complex problems and exploring technologies related to low-level programming, such as kernel development, performance optimization, and programming languages.
+Hi, I'm Ethan, a new grad from  Northwestern University with a Master's in Computer Science and a Bachelor's with Honors in Economics. I enjoy designing efficient solutions to complex problems and exploring technologies related to low-level programming, such as kernel development, performance optimization, and programming languages.
 
 ## Education - Northwestern University
 
-Seeking Honors in Economics | Dean's List | Innovation Fellowship | Accelerated Math Program
+Departmental Honors in Economics | Phi Beta Kappa | Dean's List | Innovation Fellowship | Accelerated Math Program
 
 - Master of Science in Computer Science
 - Bachelor of Arts in Economics
 - Minor in Data Science
 
+_Check out my [honors thesis](https://github.com/EthanSterling04/market-concentration-tail-risk)!_
+
 ### Coursework:
 * Kernel and Other Low-level Software Development, Operating Systems, Networking, Computer System Security, Data Structures, AI, Linear Algebra, Multivariable Calculus, Mechanism Design, Econometrics, Computer Systems, Game Design & Development, Data Science & Machine Learning, Programming Languages, Discrete Math, Agent-Based Models, Data Visualization, Agile Software Development, Automata theory and compilers, Quantum Computing
-* Current: Distributed Systems
 
 ## Experience
 
@@ -54,13 +55,13 @@ Seeking Honors in Economics | Dean's List | Innovation Fellowship | Accelerated 
 ## Projects
 
 **Check out some of my projects to see examples of my code!**
+- [FPVM (Research)](https://github.com/PrescienceLab/fpvm)
 - [Domain Scanner (Networking)](https://github.com/EthanSterling04/domain-scanner)
 - [TANKS! (Programming)](https://github.com/EthanSterling04/TANKS)
 - [Sketch Classification (Machine Learning)](https://github.com/EthanSterling04/sketch-classification)
 - [Inflation-ABM (Economic Modeling)](https://github.com/EthanSterling04/Inflation-ABM)
 - [Group Votes (Full Stack)](https://github.com/394-s24/group-votes)
 - [Heart Attack Indicators (EDA)](https://github.com/EthanSterling04/Heart-Attack-Indicators)
-- [FPVM (Research)](https://github.com/PrescienceLab/fpvm)
 
 ## Other Repositories
 
@@ -69,7 +70,7 @@ Explore more of my projects in my [GitHub Repositories](https://github.com/Ethan
 ## Connect with Me
 
 - <img src="https://github.com/EthanSterling04/EthanSterling04/assets/60374501/e467aaf6-24f1-4c45-9806-62116fa46adb" width="15" height="15"> [LinkedIn](https://www.linkedin.com/in/ethan-sterling-2004/)
-- 📄 [Resume](https://ethansterling.com/Ethan-Sterling-Resume-2025.pdf)
+- 📄 [Resume](https://ethansterling.com/Ethan-Sterling-Resume-2026.pdf)
 
 ## Contact
 
@@ -79,9 +80,10 @@ If you would like to get in touch with me, feel free to contact me through email
 ## Fun Facts
 
 - I am from the wonderful city of Chicago 🌃
-- My hobbies are running, music, skiing, video games, reading, 16-inch softball, and weightlifting!
-- I am the co-chair for Dillo Day, the nation's largest student-run music festival 🎶
-- I am also a certified lifeguard 😎
+- My hobbies are running, music, skiing, scuba diving, reading, 16-inch softball, and weightlifting!
+- I formerly ran Dillo Day, the nation's largest student-run music festival 🎶
+- My fastest mile is 4:30
+- I've been to 30+ countries 🗺️
 
 ## Open to Collaboration
 
