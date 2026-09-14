@@ -6,18 +6,19 @@ weight: 30
 
 ### Federal Reserve Bank of Chicago
 **Software Engineering Intern**
-- Implement automated multi-region disaster recovery using AWS services (EC2, RDS, Route 53) and Terraform for a test application, enabling scheduled and intelligent failover based on resource availability
-- Engineer an automatic update process for OSS in an Angular/Spring application, including automated site testing
-- Create a proof-of-concept for unit testing PostgreSQL procedures, functions, and triggers using a test application
+- Implemented high-availability disaster recovery solution on AWS using Terraform to deploy multi-region application on ECS Fargate, enabling automated, health-check-driven failover managed by Route 53, Lambda, and CloudWatch
+- Created dynamic Spring Batch pipeline for high-performance, parallel data migration from Oracle to PostgreSQL
+- Engineered self-healing DevSecOps pipeline with GitLab CI to automate OSS dependency updates in Spring/Angular
 - Architected critical RESTful APIs using Spring Boot to replace database links, aiding cloud migration effort
 - Leveraged Docker, Terraform, Mockito unit tests, and built GitLab CI/CD pipelines for deployment and scalability
 - Maintained FedLine Solutions, securing payment services for 100,000 users, moving 5 trillion dollars daily
 
 ### The Buoyancy Project (FPVM)
 **Research Contributor**
-- Design and implement a Just-in-Time (JIT) compiler to translate custom Floating-point Intermediate Representation (FIR) into native x86-64 assembly, achieving near-native execution speeds
-- Enhance VM instruction set with x86 comparison, precisely manipulating EFLAGS for complex conditional logic
-- Define architectural roadmap for high-performance computing by prototyping 256-bit AVX vector instruction support, detailing kernel state, register file, and compilation pipeline changes
+- Built a JIT compiler in C, translating a stack-based floating-point IR into x86-64 assembly, leveraging compiled-code caching to achieve a 3.5x average speedup over interpretation and match original architecture-specific emulator
+- Abstracted hardware dependencies by lowering same IR to LLVM IR, ensuring full architecture independence
+- Enhanced VM instruction set with x86 comparison, precisely manipulating EFLAGS for complex conditional logic
+- Defined architectural roadmap for high-performance computing by prototyping 256-bit AVX vector instruction support, detailing kernel state, register file, and compilation pipeline changes
 
 ### Prescience Lab (DMPL)
 **Research Assistant**
