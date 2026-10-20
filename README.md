@@ -27,7 +27,7 @@ _Check out my [honors thesis](https://github.com/EthanSterling04/market-concentr
 - Maintained FedLine Solutions, securing payment services for 100,000 users, moving 5 trillion dollars daily
 
 ### Prescience Lab – *The Buoyancy Project (FPVM)*
-#### Research Contributor
+#### Research Assistant
 - Built a JIT compiler in C, translating a stack-based floating-point IR into x86-64 assembly, leveraging compiled-code caching to achieve a 3.5x average speedup over interpretation and match original architecture-specific emulator
 - Abstracted hardware dependencies by lowering same IR to LLVM IR, ensuring full architecture independence
 - Enhanced VM instruction set with x86 comparison, precisely manipulating EFLAGS for complex conditional logic
