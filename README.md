@@ -57,8 +57,8 @@ _Check out my [honors thesis](https://github.com/EthanSterling04/market-concentr
 
 **Check out some of my projects to see examples of my code!**
 - [FPVM (Research)](https://github.com/PrescienceLab/fpvm)
+- [Limit Order Book (C++20)](https://github.com/EthanSterling04/lob)
 - [Domain Scanner (Networking)](https://github.com/EthanSterling04/domain-scanner)
-- [TANKS! (Programming)](https://github.com/EthanSterling04/TANKS)
 - [Sketch Classification (Machine Learning)](https://github.com/EthanSterling04/sketch-classification)
 - [Inflation-ABM (Economic Modeling)](https://github.com/EthanSterling04/Inflation-ABM)
 - [Group Votes (Full Stack)](https://github.com/394-s24/group-votes)
