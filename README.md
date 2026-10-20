@@ -26,14 +26,14 @@ _Check out my [honors thesis](https://github.com/EthanSterling04/market-concentr
 - Leveraged Docker, Terraform, Mockito unit tests, and built GitLab CI/CD pipelines for deployment and scalability
 - Maintained FedLine Solutions, securing payment services for 100,000 users, moving 5 trillion dollars daily
 
-### The Buoyancy Project (FPVM)
-#### Research Contributor
+### Prescience Lab – *The Buoyancy Project (FPVM)*
+#### Research Assistant
 - Built a JIT compiler in C, translating a stack-based floating-point IR into x86-64 assembly, leveraging compiled-code caching to achieve a 3.5x average speedup over interpretation and match original architecture-specific emulator
 - Abstracted hardware dependencies by lowering same IR to LLVM IR, ensuring full architecture independence
 - Enhanced VM instruction set with x86 comparison, precisely manipulating EFLAGS for complex conditional logic
 - Defined architectural roadmap for high-performance computing by prototyping 256-bit AVX vector instruction support, detailing kernel state, register file, and compilation pipeline changes
 
-### Prescience Lab (DMPL)
+### Prescience Lab – *The Constellation Project (DMPL)*
 #### Research Assistant
 - Scaled functional programming language MaPLe to a distributed memory environment using MPI and C
 - Developed efficient parallel garbage collection for MPL, scaling to hundreds of cores and 1TB+ heap sizes
@@ -57,8 +57,8 @@ _Check out my [honors thesis](https://github.com/EthanSterling04/market-concentr
 
 **Check out some of my projects to see examples of my code!**
 - [FPVM (Research)](https://github.com/PrescienceLab/fpvm)
+- [Limit Order Book (C++20)](https://github.com/EthanSterling04/lob)
 - [Domain Scanner (Networking)](https://github.com/EthanSterling04/domain-scanner)
-- [TANKS! (Programming)](https://github.com/EthanSterling04/TANKS)
 - [Sketch Classification (Machine Learning)](https://github.com/EthanSterling04/sketch-classification)
 - [Inflation-ABM (Economic Modeling)](https://github.com/EthanSterling04/Inflation-ABM)
 - [Group Votes (Full Stack)](https://github.com/394-s24/group-votes)
